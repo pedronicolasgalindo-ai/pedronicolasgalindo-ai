@@ -14,19 +14,18 @@ Values: Time savings, production-ready quality, reusability, and white-label rea
 
 #MySQL #DatabaseDesign #DevTools
 
-<a href="www.linkedin.com/in/mysql-schema-structlydb">
-    <img 
-        alt="linkedin profile" 
-        title="Conecte-se comigo no LinkedIn" 
-        src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"
+<a href="https://www.linkedin.com/in/mysql-schema-structlydb">
+    <img
+        alt="linkedin"
+        title="LinkedIn"
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
 <a href="https://x.com/structlyDB">
-    <img 
-        alt="x followers" 
-        title="Siga-me no X" 
-        src="https://img.shields.io/twitter/follow/SEU_USUARIO?color=000000&logo=x&logoColor=white&style=for-the-badge"
+    <img
+        alt="x followers"
+        title="X"
+        src="https://img.shields.io/twitter/follow/SEU_USUARIO?color=0B1C2D&logo=x&logoColor=white&style=for-the-badge"
     />
 </a>
 
-    
