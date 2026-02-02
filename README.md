@@ -14,19 +14,19 @@ Values: Time savings, production-ready quality, reusability, and white-label rea
 
 #MySQL #DatabaseDesign #DevTools
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    
+<a href="www.linkedin.com/in/mysql-schema-structlydb">
+    <img 
+        alt="linkedin profile" 
+        title="Conecte-se comigo no LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"
+    />
+</a>
+<a href="https://x.com/structlyDB">
+    <img 
+        alt="x followers" 
+        title="Siga-me no X" 
+        src="https://img.shields.io/twitter/follow/SEU_USUARIO?color=000000&logo=x&logoColor=white&style=for-the-badge"
+    />
+</a>
+
     
