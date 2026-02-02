@@ -1,6 +1,8 @@
-# 👩🏻‍💻 Structly DB
+# 👩🏻‍💻 *Structly DB*
 
 **`Technology company`**
+
+ <img width="200" height="200" alt="Logotipo StructlyDB (1)" src="https://github.com/user-attachments/assets/cd952e79-c85d-4519-9cb0-f268db2e685d" />
 
 Structly DB is a company focused on database solutions for developers and software teams. Our mission is to simplify complex database modeling by providing enterprise-grade, ready-to-use MySQL templates for real-world projects.
 
