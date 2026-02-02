@@ -20,12 +20,12 @@ Values: Time savings, production-ready quality, reusability, and white-label rea
         title="LinkedIn"
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
-</a>
 <a href="https://x.com/structlyDB">
     <img
-        alt="x followers"
-        title="X"
-        src="https://img.shields.io/twitter/StructlyDB?color=0B1C2D&logo=x&logoColor=white&style=for-the-badge"
+        alt="x"
+        title="StructlyDB no X"
+        src="https://img.shields.io/badge/StructlyDB-0B1C2D?style=for-the-badge&logo=x&logoColor=white"
     />
 </a>
+
 
