@@ -25,7 +25,7 @@ Values: Time savings, production-ready quality, reusability, and white-label rea
     <img
         alt="x followers"
         title="X"
-        src="https://img.shields.io/twitter/follow/SEU_USUARIO?color=0B1C2D&logo=x&logoColor=white&style=for-the-badge"
+        src="https://img.shields.io/twitter/StructlyDB?color=0B1C2D&logo=x&logoColor=white&style=for-the-badge"
     />
 </a>
 
